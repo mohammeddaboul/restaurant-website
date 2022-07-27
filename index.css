@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+
+}
+header
+{
+background-color: palegoldenrod;
+text-align: center;
+font-family: lucida calligraphy;
+}
+footer{
+background-color: palegoldenrod;
+text-align: center;
+font-family: lucida calligraphy;
+}
+h1{
+    
+
+}
+
+li{
+    display: inline-block;
+    background-color: palegoldenrod;
+    padding:10px;
+    margin:10px;
+    font-family: lucida calligraphy;
+}
+img{
+    width:100%;
+}
+#About
+{
+    color:white;
+    text-align: center;
+    font-family: lucida calligraphy;
+    margin:100px;
+    padding:100px;
+}
+       
